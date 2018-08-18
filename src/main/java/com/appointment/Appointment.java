@@ -3,7 +3,7 @@ package com.appointment;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
-//Apointment Pojo
+//Apointment Pojo class
 @Entity
 public class Appointment
 {
